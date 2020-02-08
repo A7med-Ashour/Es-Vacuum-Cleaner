@@ -1,7 +1,8 @@
-########## [Vacuum Cleaner] ########
+# ES-Vacuum-Cleaner] 
+
 Time Trigger Embedded Software Project That Simulate Real World Vacuum Cleaner.
 
-Requirements :
+## Requirements :
 
 - Adjust Motor Speed Using Two Switches.
 - Decrease Motor Speed One Step Automatically If Dust Switch Is Pressed For 30 Seconds, That Simulate Dust Sensor .
@@ -10,7 +11,7 @@ Requirements :
 - Move From One Speed Level To Another Using Soft Switching Technique.
 
 
-Peripherals And Approaches :
+## Peripherals And Approaches :
 
 - Time Trigger   Software Design Approach.
 - State Machine Software Design Approach.
@@ -20,10 +21,11 @@ Peripherals And Approaches :
 - Pulse Width Modulation [PWM] .
 - PIC16F877A Micro Controller.
 
-Used Tools :
+## Tools :
 
 - MPLAB IDE.
 
-Links :
-Project Video : https://youtu.be/iEy-QGQhA24
-Source Code : https://github.com/A7med-Ashour/Es-Vacuum-Cleaner
+## Links :
+
+- Project Video : https://youtu.be/iEy-QGQhA24
+- Source Code : https://github.com/A7med-Ashour/Es-Vacuum-Cleaner
